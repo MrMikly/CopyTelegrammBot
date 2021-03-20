@@ -13,12 +13,3 @@ six==1.15.0
 tornado==6.1
 tzlocal==2.1
 urllib3==1.26.3
-requests==2.24.0
-six==1.14.0
-SpeechRecognition==3.8.1
-threaded==4.1.0
-tornado==6.1
-tzlocal==2.1
-urllib3==1.25.10
-virtualenv==20.4.2
-virtualenv-clone==0.5.4
