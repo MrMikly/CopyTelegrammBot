@@ -1,1 +1,1 @@
-worke: python 
+worke: python main_bot.py
